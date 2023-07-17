@@ -17,3 +17,10 @@
     display: flex;
     justify-content: space-around;
 }
+.camera-container{
+    display: flex;
+    justify-content: space-around;
+}
+.gear-title{
+    text-align: center;
+}
