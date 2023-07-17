@@ -29,7 +29,28 @@
   font-weight: 600;
   line-height: 70px; /* 250% */
 }
-.drone-light-container{
-    display: flex;
-    justify-content: space-between;
+.drone-light-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.blog-grnscrn-actn-camera-container {
+  display: flex;
+  justify-content: space-around;
+}
+.feature-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.btn3{
+  width: 20px;
+  height: 15px;
+  padding: 10px 24px;
+  background: #e02c6d;
+}
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
 }
