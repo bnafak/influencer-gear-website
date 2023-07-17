@@ -1,26 +1,35 @@
-.menu{
-    display: flex;
-    justify-content: space-evenly;
+.menu {
+  display: flex;
+  justify-content: space-evenly;
 }
-.menu-items{
-    display: flex;
-    margin-right: 20px;
-}
-
-.banner-container{
-    display: flex;
-    justify-content:space-around;
-    align-items: center;
+.menu-items {
+  display: flex;
+  margin-right: 20px;
 }
 
-.add-container{
-    display: flex;
-    justify-content: space-around;
+.banner-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
-.camera-container{
-    display: flex;
-    justify-content: space-around;
+
+.add-container {
+  display: flex;
+  justify-content: space-around;
 }
-.gear-title{
-    text-align: center;
+.camera-container {
+  display: flex;
+  justify-content: space-around;
+}
+.gear-title {
+  text-align: center;
+  color: #3a3a3a;
+  font-family: Poppins;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 70px; /* 250% */
+}
+.drone-light-container{
+    display: flex;
+    justify-content: space-between;
 }
